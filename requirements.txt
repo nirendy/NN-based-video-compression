@@ -1,0 +1,7 @@
+jupyterlab
+numpy
+opencv-python
+jedi==0.17.2
+tqdm
+ffmpeg
+vidgear
